@@ -3,13 +3,13 @@
 
  */
 
-namespace Foodbag;
+namespace Foodbag\Body;
 
 use PhpUnitsOfMeasure\PhysicalQuantity\Length;
 use PhpUnitsOfMeasure\PhysicalQuantity\Mass;
 
 
-class BodyCalculator
+class Calculator
 {
 
     public static function test()
