@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "11d643bb7c50268f25838c3a7108c95e",
+    "hash": "4912e4e2cc1fc9bd2e480fa78aeb3c8b",
     "packages": [
         {
             "name": "triplepoint/php-units-of-measure",

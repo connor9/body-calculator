@@ -1,6 +1,6 @@
 {
   "name": "connor9/body-calculator",
-  "description": "Calculates BMI based on input height and weight",
+  "description": "Calculates body measurements",
   "license": "GNU v2",
   "authors": [
     {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Foodbag\\BodyCalculator\\": "src/"
+      "Foodbag\\Body\\": "src/"
     }
   }
 }
