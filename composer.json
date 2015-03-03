@@ -1,0 +1,20 @@
+{
+  "name": "connor9/body-calculator",
+  "description": "Calculates BMI based on input height and weight",
+  "license": "GNU v2",
+  "authors": [
+    {
+      "name": "David Connor",
+      "email": "dconnor@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "triplepoint/php-units-of-measure": "1.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Foodbag\\BodyCalculator\\": "src/"
+    }
+  }
+}
