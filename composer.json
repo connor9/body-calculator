@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Minus89": "src/"
+      "Minus89\\": "src/"
     }
   }
 }
