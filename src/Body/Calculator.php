@@ -3,7 +3,7 @@
 
  */
 
-namespace Foodbag\Body;
+namespace Minus89\Body;
 
 use PhpUnitsOfMeasure\PhysicalQuantity\Length;
 use PhpUnitsOfMeasure\PhysicalQuantity\Mass;
